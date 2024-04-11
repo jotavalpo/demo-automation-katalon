@@ -1,0 +1,2 @@
+empresa,tipoDeContrato,periodicidadDeJornada,horarioSemanal,tipoDeJornada,area,cargo,supervisor,sindicato,sueldoBase,moneda
+"Demo SpA","Indefinido","mensual","45","Ordinaria ART 22","Producto - Producto - Producto","Product Owner (product_owner)","paola","Ninguno","2000000","peso" 

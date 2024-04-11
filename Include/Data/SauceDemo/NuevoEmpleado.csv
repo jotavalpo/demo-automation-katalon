@@ -1,0 +1,2 @@
+nombre,apellido,fechaNacimiento,rut,paisNacimiento,sexo,estadoCivil,ingresoCompania,direccion,formaDePago,banco,tipoCuenta,numeroDeCuenta,region,localidad,comuna
+"nombreEmpleado","pruebasap","01-07-1991","98971783-9","Chile","Femenino","Casado/a","01/01/2022","dirección pruebas","Transferencia Bancaria","Santander","Corriente","12345","RM","Santiago","Santiago"

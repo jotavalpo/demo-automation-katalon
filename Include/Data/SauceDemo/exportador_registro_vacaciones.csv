@@ -1,0 +1,8 @@
+id, selector,parametro
+1, "#employee > div > ul > li:nth-child(29)","//a[@href='#employee']"
+2, "#employee > div > ul > li:nth-child(21)","//a[@href='#employee']"
+3, "#vacacion > div > ul > li:nth-child(7)","//a[@href='#vacacion']"
+4, "#vacacion > div > ul > li:nth-child(9)","//a[@href='#vacacion']"
+5, "#vacacion > div > ul > li:nth-child(8)","//a[@href='#vacacion']"
+6, "#vacacion > div > ul > li:nth-child(3)","//a[@href='#vacacion']"
+7, "#vacacion > div > ul > li:nth-child(5)","//a[@href='#vacacion']"
